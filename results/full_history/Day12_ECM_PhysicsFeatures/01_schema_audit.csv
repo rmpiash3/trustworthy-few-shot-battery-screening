@@ -1,0 +1,5 @@
+file,group,chemistry,nominal_capacity_Ah,rows,cells,soc_source,u_count
+D:\SecondLife_Research\Data\PulseBat\LFP_35Ah_W_5000.xlsx,35Ah LFP,LFP,35.0,560,56,SOCR,21
+D:\SecondLife_Research\Data\PulseBat\LMO_10Ah_W_5000.xlsx,10Ah LMO,LMO,10.0,950,95,SOCR,21
+D:\SecondLife_Research\Data\PulseBat\NMC_2.1Ah_W_5000.xlsx,2.1Ah NMC,NMC,2.1,670,67,SOE,21
+D:\SecondLife_Research\Data\PulseBat\NMC_21Ah_W_5000.xlsx,21Ah NMC,NMC,21.0,520,52,SOCR,21

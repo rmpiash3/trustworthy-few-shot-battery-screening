@@ -1,0 +1,14 @@
+{
+  "repository_name": "trustworthy-few-shot-battery-screening",
+  "github_owner": "rmpiash",
+  "repository_url": "https://github.com/rmpiash/trustworthy-few-shot-battery-screening",
+  "generated_utc": "2026-11-13T15:23:39.079519+00:00",
+  "raw_data_included": false,
+  "source_scripts_found": 40,
+  "manifest_entries": 688,
+  "files_in_repository": 699,
+  "missing_expected_assets": 0,
+  "skipped_large_files": 0,
+  "max_file_mb_threshold": 95,
+  "scientific_results_changed": false
+}

@@ -1,0 +1,17 @@
+{
+  "day": "Day19",
+  "representation": "REL_RATIO_NO_STATE",
+  "nominal_coverage": 0.9,
+  "source_protocol": "Day16 exact source split locked: 20% source cells reserved before model fitting",
+  "rng_protocol": "Day16 exact RNG order locked: source shuffle first, target shuffle second",
+  "adaptation_cells_fixed": 10,
+  "calibration_sizes": [
+    10,
+    20,
+    30
+  ],
+  "integrity_gate": "20-total-label configuration must reproduce Day16 repeat-level metrics exactly",
+  "purpose": "Isolate target calibration-size effects while keeping the Day16 source-training protocol, model, adaptation set, RNG sequence, feature representation, and screening thresholds fixed.",
+  "scope_note": "This is a sensitivity analysis, not deployment-policy tuning. Interpret 20/30/40-label results only if the Day16 reproduction integrity gate passes.",
+  "output_dir": "D:\\SecondLife_Research\\Result\\Day19_CorrectedCalibrationSensitivity"
+}

@@ -1,0 +1,4 @@
+target_chemistry,representation,detector,acceptance_rate_mean,acceptance_rate_std,abstention_rate_mean,all_target_MAE_mean_pp,accepted_MAE_mean_pp,accepted_MAE_std_pp,MAE_reduction_mean_pp,repeats
+LFP,RAW_REL_CELL,Mahalanobis,0.0,0.0,1.0,4.635621149288731,,,,10
+LMO,RAW_REL_CELL,Mahalanobis,0.0,0.0,1.0,9.732233602417033,,,,10
+NMC,RAW_REL_CELL,Mahalanobis,0.0,0.0,1.0,10.415728561449836,,,,10

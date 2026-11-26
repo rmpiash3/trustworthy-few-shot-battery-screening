@@ -1,0 +1,11 @@
+{
+  "day": "Day20",
+  "purpose": "Freeze manuscript claim boundaries before writing.",
+  "primary_representation": "REL_RATIO_NO_STATE",
+  "recommended_current_title": "Trustworthy Few-Shot Pulse Diagnostics with Calibrated Uncertainty and OOD-Aware Screening for Heterogeneous Second-Life Lithium-Ion Batteries",
+  "digital_twin_title_status": "NOT_YET_DEFENSIBLE",
+  "external_validation_wording": "overlap-excluded cross-dataset validation",
+  "screening_status": "promising conservative sensitivity evidence; not deployment certification",
+  "independent_chroma_validation": "PENDING",
+  "output_dir": "D:\\SecondLife_Research\\Result\\Day20_ClaimReadiness"
+}

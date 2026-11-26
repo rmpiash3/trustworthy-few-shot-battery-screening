@@ -1,0 +1,5 @@
+domain,file,rows_total,rows_used,soh_column,soh_scale_handling,soh_min_fraction,soh_max_fraction,all_U1_U21_present,state_variable_used
+LFP 35Ah,D:\SecondLife_Research\Data\PulseBat\LFP_35Ah_W_5000.xlsx,560,560,SOH,already_fraction,0.74364,0.9623314285714286,True,False
+LMO 10Ah,D:\SecondLife_Research\Data\PulseBat\LMO_10Ah_W_5000.xlsx,950,950,SOH,already_fraction,0.51908,0.94788,True,False
+NMC 2.1Ah,D:\SecondLife_Research\Data\PulseBat\NMC_2.1Ah_W_5000.xlsx,670,670,SOH,already_fraction,0.612380952380952,0.923,True,False
+NMC 21Ah,D:\SecondLife_Research\Data\PulseBat\NMC_21Ah_W_5000.xlsx,520,520,SOH,already_fraction,0.7464952380952381,1.008990476190476,True,False

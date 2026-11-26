@@ -1,0 +1,17 @@
+{
+  "day": "Day24_v2",
+  "purpose": "Repair manuscript structure and integrate literature citations.",
+  "source": "D:\\SecondLife_Research\\Result\\Day23_FullManuscriptDraft\\01_full_manuscript_draft.md",
+  "regex_replacement_fix": "lambda replacement used so LaTeX backslashes are literal",
+  "unresolved_REF_placeholders": 0,
+  "equation_formfeed_present": false,
+  "results_numbering_repaired": true,
+  "reference_count": 11,
+  "dataset_dois_added": [
+    "10.5281/zenodo.18630889",
+    "10.5281/zenodo.23634967"
+  ],
+  "computational_results_status": "FROZEN",
+  "digital_twin_title_status": "NOT_YET_DEFENSIBLE",
+  "output_dir": "D:\\SecondLife_Research\\Result\\Day24_LiteratureIntegratedManuscript"
+}

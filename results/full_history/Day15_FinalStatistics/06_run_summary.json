@@ -1,0 +1,10 @@
+{
+  "day": "Day15",
+  "input_stage": "Day14_Frozen_NoState_Pipeline",
+  "frozen_representation": "REL_RATIO_NO_STATE",
+  "bootstrap_resamples": 10000,
+  "statistical_test": "paired one-sided Wilcoxon signed-rank, K0 > K20",
+  "purpose": "Create final statistical robustness evidence and manuscript-ready summary tables without retraining or changing the frozen pipeline.",
+  "important_note": "Statistical inference is based on the repeated Day14 resampling design. It should be reported as robustness evidence, not as a substitute for a larger genuinely independent experimental cohort.",
+  "output_dir": "D:\\SecondLife_Research\\Result\\Day15_FinalStatistics"
+}

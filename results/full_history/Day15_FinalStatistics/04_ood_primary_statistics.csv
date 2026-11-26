@@ -1,0 +1,7 @@
+target_chemistry,detector,AUROC_mean,AUPRC_mean,FPR95_mean,acceptance_rate_mean,abstention_rate_mean,repeats
+LFP,KNN,1.0,1.0,0.0,0.0,1.0,10
+LFP,Mahalanobis,1.0,1.0,0.0,0.0,1.0,10
+LMO,KNN,1.0,1.0,0.0,0.0,1.0,10
+LMO,Mahalanobis,1.0,1.0,0.0,0.0,1.0,10
+NMC,KNN,1.0,0.9999999999999998,0.0,0.0,1.0,10
+NMC,Mahalanobis,1.0,0.9999999999999998,0.0,0.0,1.0,10

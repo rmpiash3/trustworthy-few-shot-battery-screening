@@ -1,0 +1,2 @@
+files_successful,files_failed,Q_filename_mean_Ah,Q_eff_mean_Ah,capacity_error_median_percent,capacity_error_p90_percent,SOC_RMSE_filename_mean,SOC_RMSE_Qeff_mean,SOC_MAE_Qeff_mean,strong_twins,moderate_twins,weak_twins
+23,0,4.584695652173913,5.993595122657905,30.29736583114279,58.36580245736783,0.1710926583305485,4.4070430913621364e-05,3.852290236077317e-05,0,2,21

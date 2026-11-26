@@ -1,0 +1,14 @@
+evidence_block,metric,value,interpretation
+Frozen representation,Representation,REL_RATIO_NO_STATE,No SOC/SOCR/SOE in main predictor
+Internal few-shot,K0 mean MAE (pp),8.268288360132123,Unadapted chemistry transfer
+Internal few-shot,K20 mean MAE (pp),3.0056461119305475,Few-shot adapted chemistry transfer
+Internal few-shot,K0->K20 improvement (%),63.64850884467075,Average chemistry-level gain
+Uncertainty,K20 PICP,0.9092727272727273,Target 0.90
+Uncertainty,K20 MPIW (pp),19.90282237577301,Mean interval width
+OOD,Mahalanobis mean AUROC,1.0,Held-out chemistry detection
+OOD,Mahalanobis target abstention rate,1.0,Strict unseen-chemistry safety gate
+Cross-dataset,Non-overlapping target cells,539,Bipolar709 evaluation cohort
+Cross-dataset,Overlapping raw IDs excluded,170,Leakage safeguard
+Cross-dataset,K0 mean MAE (pp),8.720101156848592,Overlap-excluded zero-shot transfer
+Cross-dataset,K20 mean MAE (pp),3.46776346524991,Overlap-excluded few-shot transfer
+Cross-dataset,K0->K20 improvement (%),60.23253167738315,Average external few-shot gain

@@ -1,0 +1,10 @@
+evidence_key,path,exists,size_bytes
+day13,D:\SecondLife_Research\Result\Day13_StateSensitivity\06_representation_freeze_summary.csv,True,305
+day14_internal,D:\SecondLife_Research\Result\Day14_Frozen_NoState_Pipeline\10_internal_summary.csv,True,129
+day14_uq,D:\SecondLife_Research\Result\Day14_Frozen_NoState_Pipeline\11_uq_summary.csv,True,295
+day14_external,D:\SecondLife_Research\Result\Day14_Frozen_NoState_Pipeline\12_external_summary.csv,True,127
+day14_overlap,D:\SecondLife_Research\Result\Day14_Frozen_NoState_Pipeline\09_external_overlap_summary.csv,True,145
+day15_stats,D:\SecondLife_Research\Result\Day15_FinalStatistics\02_overall_paired_statistics.csv,True,446
+day16_screen,D:\SecondLife_Research\Result\Day16_ScreeningDecision\04_screening_overall_summary.csv,True,502
+day19_gate,D:\SecondLife_Research\Result\Day19_CorrectedCalibrationSensitivity\06_day16_integrity_gate.csv,True,136
+day19_safety,D:\SecondLife_Research\Result\Day19_CorrectedCalibrationSensitivity\04_corrected_calibration_overall.csv,True,878

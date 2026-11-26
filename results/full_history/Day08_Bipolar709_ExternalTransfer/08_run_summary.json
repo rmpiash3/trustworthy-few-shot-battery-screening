@@ -1,0 +1,42 @@
+{
+  "day": "Day08",
+  "source_dataset": "PulseBat",
+  "target_dataset": "Bipolar709 Step2_CellLevel",
+  "source_root": "D:\\SecondLife_Research\\Data\\PulseBat",
+  "target_root": "D:\\SecondLife_Research\\Data\\Bipolar709\\Data_Process_Output\\Step2_CellLevel",
+  "overlap_exclusion_rule": "Any target raw ID appearing in PulseBat source is excluded.",
+  "common_u_features": [
+    "U1",
+    "U2",
+    "U3",
+    "U4",
+    "U5",
+    "U6",
+    "U7",
+    "U8",
+    "U9",
+    "U10",
+    "U11",
+    "U12",
+    "U13",
+    "U14",
+    "U15",
+    "U16",
+    "U17",
+    "U18",
+    "U19",
+    "U20",
+    "U21"
+  ],
+  "common_u_feature_count": 21,
+  "feature_representation": "REL_RATIO + canonical SOC",
+  "fewshot_K_cells": [
+    0,
+    1,
+    5,
+    10,
+    20
+  ],
+  "repeats": 10,
+  "important_note": "This is only a valid external transfer result for the non-overlapping target cells. If overlap is substantial or protocols are strongly related, manuscript wording must use cross-dataset validation rather than fully independent external validation."
+}

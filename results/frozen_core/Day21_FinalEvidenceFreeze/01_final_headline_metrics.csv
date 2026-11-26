@@ -1,0 +1,20 @@
+block,metric,value,unit
+Representation,Frozen primary representation,REL_RATIO_NO_STATE,
+Internal few-shot,K0 mean MAE,8.268288360132123,pp
+Internal few-shot,K20 mean MAE,3.0056461119305475,pp
+Internal few-shot,K0->K20 MAE reduction,63.64554851362707,%
+Internal statistics,Paired Wilcoxon p,0.0009765625,
+Internal statistics,Bootstrap CI low improvement,5.129877254988621,pp
+Internal statistics,Bootstrap CI high improvement,5.402816311569826,pp
+Uncertainty,K20 empirical coverage,0.9092727272727273,fraction
+Uncertainty,K20 mean interval width,19.90282237577301,pp
+External cross-dataset,K0 mean MAE,8.720101156848592,pp
+External cross-dataset,K20 mean MAE,3.46776346524991,pp
+External cross-dataset,K0->K20 MAE reduction,60.23617366643856,%
+External cross-dataset,Paired Wilcoxon p,0.0009765625,
+External cross-dataset,Overlap raw IDs excluded,170,IDs
+External cross-dataset,Target cells retained,539,cells
+Screening,10-cal false-safe rate,0.0023569023569023568,fraction
+Screening,20-cal false-safe rate,0.0,fraction
+Screening,30-cal false-safe rate,0.0,fraction
+Screening,20-cal empirical coverage,0.9127340823970037,fraction

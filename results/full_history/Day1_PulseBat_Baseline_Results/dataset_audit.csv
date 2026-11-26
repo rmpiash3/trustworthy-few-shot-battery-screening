@@ -1,0 +1,5 @@
+file,sheet,rows,columns,column_names
+LFP_35Ah_W_5000.xlsx,SOC ALL,560,33,File_Name | Mat | No. | ID | Qn | Q | SOH | Pt | SOC | SOCR | U1 | U2 | U3 | U4 | U5 | U6 | U7 | U8 | U9 | U10 | U11 | U12 | U13 | U14 | U15 | U16 | U17 | U18 | U19 | U20 | U21 | _source_file | _chemistry_group
+LMO_10Ah_W_5000.xlsx,SOC ALL,950,33,File_Name | Mat | No. | ID | Qn | Q | SOH | Pt | SOC | SOCR | U1 | U2 | U3 | U4 | U5 | U6 | U7 | U8 | U9 | U10 | U11 | U12 | U13 | U14 | U15 | U16 | U17 | U18 | U19 | U20 | U21 | _source_file | _chemistry_group
+NMC_2.1Ah_W_5000.xlsx,SOC ALL,670,33,File_Name | Mat | No. | ID | Qn | Q | SOH | Pt | SOC | SOE | U1 | U2 | U3 | U4 | U5 | U6 | U7 | U8 | U9 | U10 | U11 | U12 | U13 | U14 | U15 | U16 | U17 | U18 | U19 | U20 | U21 | _source_file | _chemistry_group
+NMC_21Ah_W_5000.xlsx,SOC ALL,520,33,File_Name | Mat | No. | ID | Qn | Q | SOH | Pt | SOC | SOCR | U1 | U2 | U3 | U4 | U5 | U6 | U7 | U8 | U9 | U10 | U11 | U12 | U13 | U14 | U15 | U16 | U17 | U18 | U19 | U20 | U21 | _source_file | _chemistry_group

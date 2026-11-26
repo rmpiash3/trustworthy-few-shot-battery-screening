@@ -1,0 +1,22 @@
+# Manuscript Completion Checklist
+
+- [x] Computational results frozen.
+- [x] Final primary representation frozen.
+- [x] Internal few-shot result frozen.
+- [x] Target-aware UQ result frozen.
+- [x] OOD claim boundary frozen.
+- [x] Cross-dataset overlap exclusion frozen.
+- [x] Screening sensitivity frozen.
+- [x] Claim-readiness gate frozen.
+- [x] Current defensible title selected.
+- [ ] Add verified literature references.
+- [ ] Add final dataset citations / DOIs.
+- [ ] Add manuscript tables in journal format.
+- [ ] Insert final Day21 figures.
+- [ ] Add Data Availability statement.
+- [ ] Add Code Availability statement.
+- [ ] Add Author Contributions.
+- [ ] Add Funding / Conflict of Interest statements.
+- [ ] Select target journal and apply formatting.
+- [ ] Independent Chroma proof-of-concept if available before submission.
+- [ ] Only restore Digital-Twin wording if independently validated DT evidence is added.

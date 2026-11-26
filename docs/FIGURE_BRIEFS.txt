@@ -1,0 +1,16 @@
+# FIGURE BRIEFS
+
+## Figure 1 — Framework
+Shows the complete study flow from retired-battery pulse features through the state-free relative representation, few-shot target adaptation, target-aware conformal uncertainty, OOD applicability checking, and A/B/C/D screening. Class C denotes abstention/additional diagnostics.
+
+## Figure 2 — Pulse-feature semantics and domain heterogeneity
+Panel (a) uses an actual observed PulseBat U1–U21 row. The C-rate trace is schematic protocol guidance, not reconstructed measured current. Panel (b) shows actual U1–U21 distributions across LFP 35Ah, LMO 10Ah, NMC 2.1Ah, and NMC 21Ah.
+
+## Figure 3 — Few-shot label-budget performance
+Shows the reduction of SOH MAE as the number of labeled target cells increases from K=0 to K=20 for internal chemistry shift and overlap-excluded cross-dataset transfer.
+
+## Figure 4 — Generalization and trustworthiness
+Uses frozen cell-level prediction evidence only. Shows true-versus-predicted SOH, chemistry-wise absolute-error distributions, and corrected calibration-size trustworthiness diagnostics. No generated/synthetic battery data and no KLD claim.
+
+## Figure 5 — Screening trade-off
+Shows the protocol-locked trade-off among calibration size, empirical coverage, decisiveness, and observed false-safe events. Zero observed false-safe events are not interpreted as zero deployment risk.

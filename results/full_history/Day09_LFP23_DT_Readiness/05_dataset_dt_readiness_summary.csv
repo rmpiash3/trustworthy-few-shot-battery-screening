@@ -1,0 +1,2 @@
+files_discovered,files_audited,files_with_errors,files_strong_2rc_candidate,files_limited_dynamic,files_poor_for_2rc,files_pulse_or_step_rich,files_near_constant_current,median_sampling_interval_s,median_duration_h,capacity_metadata_min_Ah,capacity_metadata_max_Ah
+23,23,0,0,0,23,0,0,1.0,1.0502777777777779,3.422,5.596

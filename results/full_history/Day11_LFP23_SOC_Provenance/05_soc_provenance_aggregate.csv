@@ -1,0 +1,2 @@
+files_successful,files_failed,Qeff_mean_Ah,Qeff_std_Ah,Qeff_min_Ah,Qeff_max_Ah,Qeff_CV_percent,mean_abs_distance_to_6Ah_percent,mean_SOC_RMSE_using_6Ah,max_SOC_RMSE_using_6Ah,best_global_reference_candidate_Ah,filename_capacity_min_Ah,filename_capacity_max_Ah,SOH_if_6Ah_min,SOH_if_6Ah_max
+23,0,5.993595122657905,0.00020135301912102804,5.993362567289919,5.994064232797231,0.0033594698173695877,0.10674795570158949,0.0005836173361504121,0.0007018283842786301,5.99,3.422,5.596,0.5703333333333334,0.9326666666666666

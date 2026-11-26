@@ -1,0 +1,4 @@
+priority,title,status,reason
+1,Trustworthy Few-Shot Pulse Diagnostics with Calibrated Uncertainty and OOD-Aware Screening for Heterogeneous Second-Life Lithium-Ion Batteries,CURRENTLY_DEFENSIBLE,"Matches verified few-shot, UQ, OOD, screening, and cross-domain evidence."
+2,Physics-Guided Few-Shot Pulse Diagnostics for Uncertainty-Aware Screening of Heterogeneous Second-Life Lithium-Ion Batteries,CURRENTLY_DEFENSIBLE_WITH_CARE,"Physics-guided is safer than Digital-Twin-Assisted because pulse normalization and ECM-inspired surrogate audits exist, but a fitted electrical DT does not."
+3,Trustworthy Digital-Twin-Assisted Few-Shot Pulse Diagnostics for Second-Life Lithium-Ion Battery Screening,NOT_YET_DEFENSIBLE,Requires validated electrical/state Digital Twin evidence first.

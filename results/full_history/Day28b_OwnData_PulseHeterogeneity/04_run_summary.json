@@ -1,0 +1,19 @@
+{
+  "stage": "Day28b",
+  "purpose": "Create reference-inspired two-panel figure using only project data.",
+  "reference_image_used_as_data": false,
+  "panel_a_source": "Actual observed row from NMC 2.1Ah",
+  "panel_a_raw_trace_reconstructed": false,
+  "panel_a_current_axis": "Schematic protocol C-rate guide only",
+  "panel_b_source": "Actual U1-U21 distributions from all four PulseBat processed files",
+  "domains": [
+    "LFP 35Ah",
+    "LMO 10Ah",
+    "NMC 2.1Ah",
+    "NMC 21Ah"
+  ],
+  "representative_source_row": 387,
+  "png_300dpi": "D:\\SecondLife_Research\\Result\\Day28b_OwnData_PulseHeterogeneity\\figures\\Figure_PulseFeature_Heterogeneity_OwnData.png",
+  "vector_pdf": "D:\\SecondLife_Research\\Result\\Day28b_OwnData_PulseHeterogeneity\\figures\\Figure_PulseFeature_Heterogeneity_OwnData.pdf",
+  "scientific_results_changed": false
+}

@@ -1,0 +1,21 @@
+{
+  "day": "Day07",
+  "purpose": "External dataset readiness and DT feasibility audit before protocol harmonization.",
+  "datasets": {
+    "External_LFP23": "D:\\SecondLife_Research\\Data\\External_LFP23",
+    "Bipolar709": "D:\\SecondLife_Research\\Data\\Bipolar709"
+  },
+  "supported_extensions": [
+    ".csv",
+    ".json",
+    ".npy",
+    ".npz",
+    ".parquet",
+    ".tsv",
+    ".txt",
+    ".xls",
+    ".xlsx"
+  ],
+  "output_dir": "D:\\SecondLife_Research\\Result\\Day07_ExternalDatasetAudit",
+  "important_method_note": "This stage only inventories and classifies external files. No datasets are merged, no protocol equivalence is assumed, and no model is trained."
+}

@@ -1,0 +1,14 @@
+metric,value
+Frozen representation,REL_RATIO_NO_STATE
+Internal K0 MAE (pp),8.268288360132123
+Internal K20 MAE (pp),3.0056461119305475
+External K0 MAE (pp),8.720101156848592
+External K20 MAE (pp),3.46776346524991
+K20 conformal PICP,0.9092727272727273
+K20 conformal MPIW (pp),19.90282237577301
+Overlap IDs excluded,170
+External cells retained,539
+Day19 integrity gate,True
+10-cal false-safe rate,0.0023569023569023568
+20-cal false-safe rate,0.0
+30-cal false-safe rate,0.0

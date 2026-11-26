@@ -1,0 +1,1 @@
+dataset,relative_path,rows,columns,numeric_columns,missing_fraction,time_candidates,voltage_candidates,current_candidates,temperature_candidates,soc_candidates,soh_candidates,capacity_candidates,id_candidates,classification,first_25_columns

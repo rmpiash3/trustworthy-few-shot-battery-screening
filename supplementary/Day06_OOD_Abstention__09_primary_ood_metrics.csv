@@ -1,0 +1,4 @@
+target_chemistry,representation,detector,AUROC_mean,AUROC_std,AUPRC_mean,AUPRC_std,FPR95_mean,FPR95_std,repeats
+LFP,RAW_REL_CELL,Mahalanobis,1.0,0.0,1.0,0.0,0.0,0.0,10
+LMO,RAW_REL_CELL,Mahalanobis,1.0,0.0,1.0,0.0,0.0,0.0,10
+NMC,RAW_REL_CELL,Mahalanobis,1.0,0.0,0.9999999999999998,0.0,0.0,0.0,10

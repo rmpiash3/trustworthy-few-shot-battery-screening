@@ -1,0 +1,21 @@
+# Remaining Submission Checklist
+
+- [x] Computational evidence frozen.
+- [x] Manuscript structure created.
+- [x] Abstract and conclusion drafted.
+- [x] Core literature citations integrated.
+- [x] Dataset DOI wording integrated.
+- [x] Equation rendering repaired.
+- [x] Results subsection numbering repaired.
+- [ ] Confirm exact bibliographic style of target journal.
+- [ ] Insert final Day21 figures into manuscript.
+- [ ] Insert publication tables.
+- [ ] Add Data Availability statement.
+- [ ] Add Code Availability statement.
+- [ ] Add Author Contributions statement.
+- [ ] Add Funding statement.
+- [ ] Add Conflict of Interest statement.
+- [ ] Add acknowledgements where applicable.
+- [ ] Run final grammar/style review.
+- [ ] Optional independent Chroma proof-of-concept before submission.
+- [ ] Only restore Digital-Twin wording if new validated DT evidence is added.

@@ -1,0 +1,19 @@
+{
+  "day": "Day16",
+  "representation": "REL_RATIO_NO_STATE",
+  "adaptation": {
+    "total_labeled_target_cells": 20,
+    "adaptation_cells": 10,
+    "calibration_cells": 10
+  },
+  "conformal_alpha": 0.1,
+  "screening_thresholds": {
+    "direct_reuse_A": "SOH >= 0.8",
+    "restricted_reuse_B": "0.7 <= SOH < 0.8",
+    "recycle_D": "SOH < 0.7",
+    "additional_diagnostic_C": "OOD pre-adaptation or interval crosses a threshold"
+  },
+  "false_safe_definition": "true SOH < 0.70 but assigned A or B",
+  "important_scope_note": "The 80% and 70% SOH thresholds are configurable engineering screening assumptions, not universal regulatory standards. The experiment evaluates the safety behavior of the interval-based decision architecture under those assumed thresholds.",
+  "output_dir": "D:\\SecondLife_Research\\Result\\Day16_ScreeningDecision"
+}

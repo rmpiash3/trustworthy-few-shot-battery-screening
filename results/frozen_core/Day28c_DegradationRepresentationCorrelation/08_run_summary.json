@@ -1,0 +1,14 @@
+{
+  "stage": "Day28c",
+  "purpose": "Own-data degradation-representation correlation analysis.",
+  "reference_figure_data_used": false,
+  "soc_grouping_used": false,
+  "reason_soc_grouping_not_used": "Source datasets do not share a uniform validated state variable; final predictor is state-free.",
+  "panel_a": "Raw U1-U21 feature correlations with SOH by PulseBat domain",
+  "panel_b": "REL_RATIO_NO_STATE feature correlations with SOH by PulseBat domain",
+  "pearson_only_observed_data": true,
+  "model_retraining": false,
+  "scientific_results_changed": false,
+  "png_300dpi": "D:\\SecondLife_Research\\Result\\Day28c_DegradationRepresentationCorrelation\\figures\\Figure_DegradationRepresentationCorrelation.png",
+  "vector_pdf": "D:\\SecondLife_Research\\Result\\Day28c_DegradationRepresentationCorrelation\\figures\\Figure_DegradationRepresentationCorrelation.pdf"
+}

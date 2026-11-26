@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and this software release."
+title: "Trustworthy Few-Shot Pulse Diagnostics with Calibrated Uncertainty and OOD-Aware Screening for Heterogeneous Second-Life Lithium-Ion Batteries"
+type: software
+version: 1.0.0
+date-released: "2026-11-13"
+repository-code: "https://github.com/rmpiash/trustworthy-few-shot-battery-screening"
+authors:
+  - family-names: "TO_BE_COMPLETED"
+    given-names: "TO_BE_COMPLETED"
+doi: "TO_BE_ADDED_AFTER_ZENODO_ARCHIVE"

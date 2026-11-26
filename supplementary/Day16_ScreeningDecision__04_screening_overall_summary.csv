@@ -1,0 +1,2 @@
+repeats,MAE_mean_pp,PICP_mean,MPIW_mean_pp,Class_A_rate_mean,Class_B_rate_mean,Class_C_rate_mean,Class_D_rate_mean,decisive_rate_mean,reuse_assignment_rate_mean,false_safe_rate_mean,false_direct_reuse_rate_mean,total_false_safe_over_all_repeats,total_false_direct_reuse_over_all_repeats
+10,3.6338224520970797,0.9092727272727273,19.902822375773006,0.25985858585858584,0.0,0.7396969696969696,0.00044444444444444447,0.2603030303030303,0.25985858585858584,0.0023569023569023568,0.009427609427609427,7,28

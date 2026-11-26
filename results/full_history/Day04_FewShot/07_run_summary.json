@@ -1,0 +1,24 @@
+{
+  "day": "Day04",
+  "feature_representation": "REL_RATIO + canonical SOC",
+  "feature_definition": "(Ui-U1)/abs(U1), i=2..21",
+  "K_values_cells": [
+    0,
+    1,
+    5,
+    10,
+    20
+  ],
+  "repeats": 10,
+  "adaptation_methods": [
+    "ZeroShot",
+    "BiasCal",
+    "WeightedRetrain"
+  ],
+  "target_weight_for_weighted_retrain": 8.0,
+  "validation": [
+    "LeaveOneGroupOut",
+    "LeaveOneChemistryOut"
+  ],
+  "important_note": "K counts unique labeled target cells. Adaptation and test cells are disjoint within each repeat, preventing pulse-row leakage."
+}

@@ -1,0 +1,20 @@
+{
+  "day": "Day18",
+  "representation": "REL_RATIO_NO_STATE",
+  "nominal_coverage": 0.9,
+  "adaptation_cells_fixed": 10,
+  "total_labeled_configs": [
+    20,
+    30,
+    40
+  ],
+  "calibration_sizes": [
+    10,
+    20,
+    30
+  ],
+  "finite_sample_note": "Day17's 90/95/97.5% intervals were identical because n_cal=10 forces all those split-conformal quantiles to the maximum calibration residual.",
+  "purpose": "Quantify interval stability, empirical coverage, false-safe rate, and decisiveness as the target calibration set grows while keeping the adaptation set fixed at 10 cells.",
+  "scope_note": "This is a sensitivity analysis. Larger calibration sets increase label burden and reduce the remaining test cohort; results must not be used as deployment policy selection without independent validation.",
+  "output_dir": "D:\\SecondLife_Research\\Result\\Day18_CalibrationSizeSensitivity"
+}

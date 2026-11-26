@@ -1,0 +1,19 @@
+{
+  "day": "Day13",
+  "purpose": "Determine whether the transferable REL_RATIO result depends on mixing SOCR and SOE in the canonical state feature.",
+  "state_schema": {
+    "LFP35Ah": "SOCR",
+    "LMO10Ah": "SOCR",
+    "NMC21Ah": "SOCR",
+    "NMC2.1Ah": "SOE"
+  },
+  "primary_scientific_question": "Does REL_RATIO_NO_STATE retain cross-domain performance close to REL_RATIO_WITH_STATE?",
+  "feature_sets": [
+    "REL_RATIO_NO_STATE",
+    "REL_RATIO_WITH_STATE",
+    "RAW_NO_STATE",
+    "RAW_WITH_STATE"
+  ],
+  "important_scope_note": "SOCR and SOE are not assumed physically equivalent. The no-state sensitivity is intended to remove that ambiguity.",
+  "output_dir": "D:\\SecondLife_Research\\Result\\Day13_StateSensitivity"
+}

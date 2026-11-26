@@ -1,0 +1,15 @@
+{
+  "day": "Day14",
+  "frozen_primary_representation": "REL_RATIO_NO_STATE",
+  "definition": "(Ui-U1)/abs(U1), i=2..21",
+  "state_variables_used_in_main_predictor": false,
+  "reason": "Day13 showed state inclusion changes aggregate MAE by <0.3%, while removing the SOCR/SOE ambiguity.",
+  "stages_replicated": [
+    "internal chemistry few-shot",
+    "90% conformal UQ",
+    "OOD/abstention",
+    "overlap-excluded Bipolar709 cross-dataset transfer"
+  ],
+  "important_note": "This script is intended to freeze one state-free representation for the final manuscript pipeline.",
+  "output_dir": "D:\\SecondLife_Research\\Result\\Day14_Frozen_NoState_Pipeline"
+}

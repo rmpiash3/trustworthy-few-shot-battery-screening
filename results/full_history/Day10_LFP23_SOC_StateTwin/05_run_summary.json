@@ -1,0 +1,8 @@
+{
+  "day": "Day10",
+  "dataset": "External_LFP23",
+  "digital_twin_scope": "SOC-state / charge-balance twin",
+  "governing_equation": "dSOC/dt = I/(3600*Q_eff)",
+  "important_scope_boundary": "This is NOT a 1RC/2RC electrical Digital Twin. Day09 showed that the LFP23 charge profiles lack pulse/relaxation excitation required for defensible 2RC identification.",
+  "output_dir": "D:\\SecondLife_Research\\Result\\Day10_LFP23_SOC_StateTwin"
+}

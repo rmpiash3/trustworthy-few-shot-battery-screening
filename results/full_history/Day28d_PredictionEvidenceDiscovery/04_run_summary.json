@@ -1,0 +1,12 @@
+{
+  "stage": "Day28d",
+  "purpose": "Discover frozen prediction evidence for a non-fabricated generalization figure.",
+  "csv_files_scanned": 143,
+  "files_with_true_and_prediction": 12,
+  "generated_data_analysis_allowed": false,
+  "kld_generated_vs_tested_allowed": false,
+  "model_retraining": false,
+  "plot_created": false,
+  "next_step": "Inspect candidate evidence files, then create an own-data true-vs-predicted/error/generalization figure only from verified frozen outputs.",
+  "output_dir": "D:\\SecondLife_Research\\Result\\Day28d_PredictionEvidenceDiscovery"
+}

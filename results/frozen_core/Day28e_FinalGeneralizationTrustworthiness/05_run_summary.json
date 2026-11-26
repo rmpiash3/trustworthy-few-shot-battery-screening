@@ -1,0 +1,26 @@
+{
+  "stage": "Day28e_v2",
+  "purpose": "Create a non-fabricated generalization/trustworthiness figure from frozen prediction evidence.",
+  "panel_a_source": "D:\\SecondLife_Research\\Result\\Day16_ScreeningDecision\\01_cell_screening_predictions.csv",
+  "panel_b_source": "D:\\SecondLife_Research\\Result\\Day16_ScreeningDecision\\01_cell_screening_predictions.csv",
+  "panel_c_source": "D:\\SecondLife_Research\\Result\\Day19_CorrectedCalibrationSensitivity\\01_cell_corrected_calibration_predictions.csv",
+  "generated_data_used": false,
+  "kld_analysis_used": false,
+  "model_retraining": false,
+  "soh_display_scale": "percent",
+  "chemistries": [
+    "LFP",
+    "LMO",
+    "NMC"
+  ],
+  "n_scatter_records": 2100,
+  "calibration_sizes": [
+    10,
+    20,
+    30
+  ],
+  "matplotlib_boxplot_label_api": "tick_labels",
+  "png_300dpi": "D:\\SecondLife_Research\\Result\\Day28e_FinalGeneralizationTrustworthiness\\figures\\Figure_Generalization_Trustworthiness_OwnData.png",
+  "vector_pdf": "D:\\SecondLife_Research\\Result\\Day28e_FinalGeneralizationTrustworthiness\\figures\\Figure_Generalization_Trustworthiness_OwnData.pdf",
+  "scientific_results_changed": false
+}

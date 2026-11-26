@@ -1,0 +1,8 @@
+Evidence block,Condition,MAE_pp,Primary result
+Internal few-shot,K=0,8.268288360132123,Zero-shot chemistry transfer
+Internal few-shot,K=20,3.0056461119305475,Few-shot chemistry transfer
+Internal statistics,K0 vs K20,,63.65% reduction; p=0.000977
+Conformal UQ,K=20,3.6338224520970797,PICP=90.93%; MPIW=19.90 pp
+External cross-dataset,K=0,8.720101156848592,Overlap-excluded zero-shot transfer
+External cross-dataset,K=20,3.46776346524991,Overlap-excluded few-shot transfer
+External statistics,K0 vs K20,,60.24% reduction; p=0.000977

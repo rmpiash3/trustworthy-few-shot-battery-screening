@@ -1,0 +1,3 @@
+dataset,files_found,supported_files_read,total_size_MB,dt_candidate_files,model_ready_files,label_or_metadata_files,read_errors,recommended_next_action
+External_LFP23,24,23,8.196744918823242,0,21,0,0,PROCEED_TO_EXTERNAL_ML_HARMONIZATION
+Bipolar709,1600,1599,970.5600280761719,0,889,0,0,PROCEED_TO_EXTERNAL_ML_HARMONIZATION

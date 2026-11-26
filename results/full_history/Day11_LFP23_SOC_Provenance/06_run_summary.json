@@ -1,0 +1,8 @@
+{
+  "day": "Day11",
+  "dataset": "External_LFP23",
+  "purpose": "Audit whether the supplied SOC column is derived from current integration using a common nominal/reference capacity near 6 Ah.",
+  "key_hypothesis": "SOC is not an independent measurement; it is likely Coulomb-counted using an approximately 6 Ah reference capacity.",
+  "manuscript_implication": "If the common-reference hypothesis is confirmed, SOC must not be used as independent validation of the charge-balance twin. Instead, the finding should be reported as label-provenance / physics-consistency evidence.",
+  "output_dir": "D:\\SecondLife_Research\\Result\\Day11_LFP23_SOC_Provenance"
+}

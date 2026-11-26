@@ -1,0 +1,4 @@
+Cohort,Chemistry / capacity,Cells / groups used,Signal,Role,Leakage / scope control
+PulseBat processed pulse-response data,NMC 2.1 Ah; LMO 10 Ah; NMC 21 Ah; LFP 35 Ah,270 grouped source cells,U1–U21 processed pulse turning points,Primary source and internal chemistry-shift evaluation,Cell/group-aware splits; no row-level leakage
+Second-life LFP23,LFP; 23 second-life cells,23 audited; 21 SOC-ready,"Voltage, current, temperature, SOC-like trajectory (~1 s)",SOC provenance / electrical-model readiness audit,Not used as independent validation of the main SOH model
+Bipolar709 overlap-excluded target,LFP / LMO / NMC target cohort,539 retained target cells,Step2 U1–U21-compatible processed representation,Overlap-excluded cross-dataset transfer evaluation,170 overlapping raw IDs excluded before evaluation

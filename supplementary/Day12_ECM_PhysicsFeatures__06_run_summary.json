@@ -1,0 +1,19 @@
+{
+  "day": "Day12",
+  "purpose": "Derive ECM-inspired pulse-response surrogate features from PulseBat U1-U21 and test cross-domain SOH value.",
+  "pulse_width_s": 5.0,
+  "rest_time_s": 75.0,
+  "feature_semantics": {
+    "U1": "OCV after 10-min rest",
+    "U2_U9": "0.5C positive/rest/negative/rest turning points",
+    "U10_U17": "1C positive/rest/negative/rest turning points",
+    "U18_U21": "1.5C positive/rest turning points"
+  },
+  "feature_sets": [
+    "REL_RATIO",
+    "PHYSICS",
+    "REL_PLUS_PHYSICS"
+  ],
+  "important_scope_boundary": "Derived resistance/polarization values are ECM-inspired surrogates, not certified R0/R1/C1/R2/C2 parameters and not a fitted 2RC Digital Twin.",
+  "output_dir": "D:\\SecondLife_Research\\Result\\Day12_ECM_PhysicsFeatures"
+}

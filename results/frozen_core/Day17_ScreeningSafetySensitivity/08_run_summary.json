@@ -1,0 +1,23 @@
+{
+  "day": "Day17",
+  "representation": "REL_RATIO_NO_STATE",
+  "coverage_levels": [
+    0.9,
+    0.95,
+    0.975
+  ],
+  "adaptation": {
+    "total_target_labeled_cells": 20,
+    "adaptation_cells": 10,
+    "calibration_cells": 10
+  },
+  "screening_thresholds": {
+    "A": "SOH >= 0.80",
+    "B": "0.70 <= SOH < 0.80",
+    "D": "SOH < 0.70",
+    "C": "interval crosses a threshold"
+  },
+  "purpose": "Sensitivity audit of false-safe versus decisiveness across conformal coverage levels after Day16 identified rare over-confident NMC decisions.",
+  "important_scope_note": "This stage must not be used to tune/select a deployment coverage level on the same evaluation labels. It is a sensitivity analysis. Final deployment policy requires prespecification and independent validation.",
+  "output_dir": "D:\\SecondLife_Research\\Result\\Day17_ScreeningSafetySensitivity"
+}

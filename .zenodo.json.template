@@ -1,0 +1,20 @@
+{
+  "title": "Trustworthy Few-Shot Pulse Diagnostics with Calibrated Uncertainty and OOD-Aware Screening for Heterogeneous Second-Life Lithium-Ion Batteries",
+  "upload_type": "software",
+  "description": "Reproducibility package containing code, frozen results, publication figures/tables, supplementary evidence, and provenance documentation.",
+  "creators": [
+    {
+      "name": "TO_BE_COMPLETED"
+    }
+  ],
+  "keywords": [
+    "lithium-ion battery",
+    "second-life battery",
+    "state of health",
+    "few-shot learning",
+    "conformal prediction",
+    "out-of-distribution detection",
+    "battery screening"
+  ],
+  "license": "TO_BE_SELECTED"
+}

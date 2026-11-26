@@ -1,0 +1,2 @@
+Select a repository license only after author/institution approval.
+Third-party datasets retain their original licenses and are not relicensed here.

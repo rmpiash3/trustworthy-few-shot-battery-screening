@@ -1,0 +1,6 @@
+condition,decision,meaning
+Pre-adaptation OOD detected,C,Additional diagnostic / target adaptation required
+90% PI lower bound >= 0.80,A,Direct reuse candidate
+"90% PI fully inside [0.70, 0.80)",B,Restricted / lower-power reuse candidate
+90% PI upper bound < 0.70,D,Recycle candidate
+Prediction interval crosses a screening threshold,C,Additional diagnostic required

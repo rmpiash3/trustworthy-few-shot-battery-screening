@@ -1,0 +1,9 @@
+{
+  "rows": 2700,
+  "target": "SOH",
+  "soc_col": "SOCR",
+  "id_col": "ID",
+  "u_feature_count": 21,
+  "best_model": "ExtraTrees",
+  "note": "Day-1 baseline only. Final paper still needs DT/physics features, few-shot, UQ, OOD and external validation."
+}

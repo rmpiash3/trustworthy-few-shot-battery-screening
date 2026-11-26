@@ -1,0 +1,31 @@
+{
+  "day": "Day06",
+  "evaluation_grain": "cell-level",
+  "held_out_domains": [
+    "LFP",
+    "LMO",
+    "NMC"
+  ],
+  "ood_representations": [
+    "REL_CELL",
+    "RAW_REL_CELL"
+  ],
+  "detectors": [
+    "Mahalanobis",
+    "IsolationForest",
+    "KNN"
+  ],
+  "repeats": 10,
+  "source_validation_fraction": 0.2,
+  "source_only_abstention_threshold_quantile": 0.95,
+  "selective_retention_levels": [
+    1.0,
+    0.9,
+    0.8,
+    0.7,
+    0.6,
+    0.5
+  ],
+  "primary_pre_specified_system": "RAW_REL_CELL + Mahalanobis",
+  "important_note": "OOD detector fitting and abstention threshold use source cells only. Held-out target chemistry labels are used only for evaluation metrics, not detector training or threshold selection."
+}

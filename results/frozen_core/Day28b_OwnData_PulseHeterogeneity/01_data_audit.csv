@@ -1,0 +1,5 @@
+domain,file,rows_total,rows_with_complete_U1_U21,rows_removed_for_missing_feature
+LFP 35Ah,D:\SecondLife_Research\Data\PulseBat\LFP_35Ah_W_5000.xlsx,560,560,0
+LMO 10Ah,D:\SecondLife_Research\Data\PulseBat\LMO_10Ah_W_5000.xlsx,950,950,0
+NMC 2.1Ah,D:\SecondLife_Research\Data\PulseBat\NMC_2.1Ah_W_5000.xlsx,670,670,0
+NMC 21Ah,D:\SecondLife_Research\Data\PulseBat\NMC_21Ah_W_5000.xlsx,520,520,0

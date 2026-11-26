@@ -1,0 +1,10 @@
+{
+  "day": "Day09",
+  "dataset": "External_LFP23",
+  "data_root": "D:\\SecondLife_Research\\Data\\External_LFP23",
+  "output_root": "D:\\SecondLife_Research\\Result\\Day09_LFP23_DT_Readiness",
+  "purpose": "Raw time-series physics audit before any 2RC Digital Twin identification.",
+  "heuristic_step_threshold": "max(0.05 A, 5% of median absolute current)",
+  "relaxation_definition": "abs(current) <= 0.05 A for >=5 samples",
+  "important_note": "This stage does not certify 2RC parameter identifiability. It only assesses whether the measured current profile contains enough dynamic excitation to justify a subsequent equivalent-circuit identification experiment."
+}
